@@ -44,5 +44,5 @@ def menu():
                       os.system('killall -9 com.termux')
                       print("")
                       print("")
-                      print("\033[1;91m     Wrong Password")
+                      print("\033[1;91m     Wrong Password sorry")
 menu()
